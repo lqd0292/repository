@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMV", "AMV\AMV.csproj", "{3B19771A-F79A-4172-AD99-97C5535F9E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B19771A-F79A-4172-AD99-97C5535F9E69}.Debug|x86.ActiveCfg = Debug|x86
+		{3B19771A-F79A-4172-AD99-97C5535F9E69}.Debug|x86.Build.0 = Debug|x86
+		{3B19771A-F79A-4172-AD99-97C5535F9E69}.Release|x86.ActiveCfg = Release|x86
+		{3B19771A-F79A-4172-AD99-97C5535F9E69}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
