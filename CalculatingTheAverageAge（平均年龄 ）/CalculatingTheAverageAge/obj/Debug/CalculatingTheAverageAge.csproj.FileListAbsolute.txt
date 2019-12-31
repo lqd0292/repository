@@ -1,0 +1,5 @@
+/Users/zhanbiju/Projects/CalculatingTheAverageAge/CalculatingTheAverageAge/obj/Debug/CalculatingTheAverageAge.csprojAssemblyReference.cache
+/Users/zhanbiju/Projects/CalculatingTheAverageAge/CalculatingTheAverageAge/bin/Debug/CalculatingTheAverageAge.exe
+/Users/zhanbiju/Projects/CalculatingTheAverageAge/CalculatingTheAverageAge/bin/Debug/CalculatingTheAverageAge.pdb
+/Users/zhanbiju/Projects/CalculatingTheAverageAge/CalculatingTheAverageAge/obj/Debug/CalculatingTheAverageAge.exe
+/Users/zhanbiju/Projects/CalculatingTheAverageAge/CalculatingTheAverageAge/obj/Debug/CalculatingTheAverageAge.pdb
